@@ -1,0 +1,1 @@
+Esse arquivo que está sendo comitado será depois excluído com o git revert
