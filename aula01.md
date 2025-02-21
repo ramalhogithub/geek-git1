@@ -60,6 +60,85 @@ ou
 # Imagens Web
 ![Geek](https://www.computerhope.com/jargon/g/geek.png "Geek Guy")
 
+# Tabelas
+
+Produto | Preço
+--------|-------------------
+Playstation 4 | R$ 1799.54
+Nintendo wii | R$ 1789,99
+Atari 2600 | R$ 199,00
+Fósforo | R$ ,030
+
+Tabelas por padrão costuma alinhar seu conteúdo à direita
+podemos alinhar o conteúdo a esquerda
+
+Produto | Preço
+--------|-------------------:
+Playstation 4 | R$ 1799.54
+Nintendo wii | R$ 1789,99
+Atari 2600 | R$ 199,00
+Fósforo | R$ ,030
+
+Podemos também centraliar
+
+Produto | Preço
+:--------:|-------------------:
+Playstation 4 | R$ 1799.54
+Nintendo wii | R$ 1789,99
+Atari 2600 | R$ 199,00
+Fósforo | R$ ,030
+
+# Texto Mono-espaçado  InLine(Apresentar código)
+
+Feito, sem coloração
+
+## Python
+
+```
+def inverte(texto):
+    return texto[::-1]
+```
+## Javascript
+```
+    function escrever_nome(nome){
+        console.log(nome);
+    }
+```
+
+Bonito e com coloração
+
+```python
+def inverte(texto):
+    return texto[::-1]
+```
+## Javascript
+```js
+    function escrever_nome(nome){
+        console.log(nome);
+    }
+```
+
+# Lista de Tarefas
+- [ ] Acordar
+- [ ] Escovar os dentes
+- [x] Tomar banho
+- [x] ~~Tomar café da manhã~~
+
+# Separarção de conteúdo
+
+---
+
+# Referências
+[Curso de Python][curso]
+
+[geek]: bikcraft.png
+
+[curso]: https://www.geekuniversity.com.br/host/
+
+
+
+
+
 
 
 
